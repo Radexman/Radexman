@@ -4,6 +4,6 @@ also when I'm learning something new I commit some of my work here.
 I am currently JavaScript.
 I'm looking forward to learn React.
 
-You can check out my portfolio here: https://radoslawsiekportfolio.netlify.app/index.html
+You can check out my portfolio here: http://radoslawsiek.pl/
 
 And here is my Linkedin profile: www.linkedin.com/in/radosławsiek
