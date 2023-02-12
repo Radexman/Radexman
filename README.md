@@ -1,4 +1,4 @@
-Hey, my name is Radek
+# **Hey, my name is Radek**
 I use my github for personal and commercial projects
 also when I'm learning something new I commit some of my work here.
 I am currently lerning JavaScript.
