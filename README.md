@@ -1,4 +1,4 @@
-![banner](/Rados%C5%82aw-baner.png)
+![Radosław-baner](https://user-images.githubusercontent.com/106437063/219445981-a4b8434f-512e-4304-aebd-84fa4d37ef84.png)
 
 <h1 align='center'>Hello, my name is Radek</h1>
 <h2>A little bit about me</h2>
