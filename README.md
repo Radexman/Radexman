@@ -11,7 +11,7 @@
 
 🎸 Outside of coding, you can often find me shredding on my guitar, indulging in my love for heavy metal music. It's my creative outlet and a source of endless inspiration.
 </p>
-<h2>My skills and tools that I use</h2>
+<h2>My Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=react,js,ts,css,html,tailwind,scss,git,vite,vitest,jest,figma,bash,vscode,vite" />
 <h2>Currently learning</h2>
 <img src="https://skillicons.dev/icons?i=linux,py" />
