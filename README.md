@@ -10,6 +10,10 @@
 🤝 Whether I'm crafting bespoke interfaces for individual clients or collaborating on larger-scale initiatives, my goal remains the same: to deliver excellence through code. Let's connect and build something amazing together!
 
 🎸 Outside of coding, you can often find me shredding on my guitar, indulging in my love for heavy metal music. It's my creative outlet and a source of endless inspiration.
+
+[javascript-certyfikat.pdf](https://github.com/Radexman/Radexman/files/14473607/javascript-certyfikat.pdf)
+[tailwind-certyfikat.pdf](https://github.com/Radexman/Radexman/files/14473608/tailwind-certyfikat.pdf)
+
 </p>
 <h2>My Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=react,js,ts,css,html,tailwind,scss,git,vite,vitest,jest,figma,bash,vscode,vite" />
