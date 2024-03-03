@@ -11,9 +11,6 @@
 
 🎸 Outside of coding, you can often find me shredding on my guitar, indulging in my love for heavy metal music. It's my creative outlet and a source of endless inspiration.
 
-[javascript-certyfikat.pdf](https://github.com/Radexman/Radexman/files/14473607/javascript-certyfikat.pdf)
-[tailwind-certyfikat.pdf](https://github.com/Radexman/Radexman/files/14473608/tailwind-certyfikat.pdf)
-
 </p>
 <h2>My Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=react,js,ts,css,html,tailwind,scss,git,vite,vitest,jest,figma,bash,vscode,vite" />
