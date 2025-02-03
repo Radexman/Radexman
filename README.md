@@ -13,7 +13,7 @@
 
 </p>
 <h2>My Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=react,redux,js,ts,css,html,tailwind,scss,git,vite,vitest,firebase,jest,figma,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,css,html,tailwind,scss,threejs,git,vite,vitest,firebase,jest,figma,bash,vscode" />
 <h2>Currently learning</h2>
-<img src="https://skillicons.dev/icons?i=linux,py,materialui,mongodb,threejs" />
+<img src="https://skillicons.dev/icons?i=linux,py,materialui,mongodb,blender" />
 
