@@ -5,7 +5,7 @@
 
 💻 My toolbox includes an array of skills, with expertise in React, TypeScript, JavaScript, and Tailwind CSS. These tools empower me to bring ideas to life, creating seamless and engaging experiences for users. I thrive on the challenge of coding competitions like Frontend Mentor, where I continually push myself to learn and innovate. I also enjoy contributing to the community by providing code reviews and constructive feedback to fellow developers, fostering collaboration and growth within our ecosystem.
 
-🎓 In addition to my coaching role, I actively engage in freelance web development work, delivering tailored solutions for diverse clients. I am currently seeking a junior frontend developer position to further develop my skills and contribute to impactful projects.
+🎓 In addition to my coaching role, I actively engage in freelance web development work, delivering tailored solutions for diverse clients. I am currently seeking junior roles to further develop my skills and contribute to impactful projects.
 
 🤝 Whether I'm crafting bespoke interfaces for individual clients or collaborating on larger-scale initiatives, my goal remains the same: to deliver excellence through code. Let's connect and build something amazing together!
 
